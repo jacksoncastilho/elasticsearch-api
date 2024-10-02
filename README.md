@@ -32,7 +32,7 @@ This script is designed to connect to an Elasticsearch cluster, retrieve all sna
 
 Before running the script, you need to configure your Elasticsearch connection details:
 
-1. Open the script file (`snapshot_deletion.py`).
+1. Open the script file (`deleteallsnapshots.py`).
 2. Update the following variables with your Elasticsearch information:
    - `es_host`: The Elasticsearch host URL (e.g., `https://your-elasticsearch-host:9200`).
    - `es_user`: Your Elasticsearch username.
