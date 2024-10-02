@@ -13,13 +13,13 @@ This script is designed to connect to an Elasticsearch cluster, retrieve all sna
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/elasticsearch-snapshot-deletion.git
+   git clone https://github.com/yourusername/elasticsearch-api.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd elasticsearch-snapshot-deletion
+   cd elasticsearch-api
    ```
 
 3. Install the required Python packages:
