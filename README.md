@@ -44,7 +44,7 @@ Before running the script, you need to configure your Elasticsearch connection d
 Run the script using the following command:
 
 ```bash
-python snapshot_deletion.py
+python deleteallsnapshots.py
 ```
 
 ## Important Notes
